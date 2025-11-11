@@ -59,7 +59,6 @@ Puedes leer sobre [Git](ref-git) y [GitHub](ref-github).
 ![Banner de ejemplo](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
 ### 4.2 Imagen local (ruta relativa)
-> Si subes una imagen a `./images/diagrama.png`, se mostrará así:
 ![Diagrama del sistema](images_md/diagrama.png "Diagrama del sistema (ruta relativa)")
 
 ---
