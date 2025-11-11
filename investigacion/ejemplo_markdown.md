@@ -58,10 +58,7 @@ Puedes leer sobre [Git](ref-git) y [GitHub](ref-github).
 ### 4.1 Imagen remota (URL pública)
 ![Banner de ejemplo](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
-### 4.2 Imagen con enlace
-[![Logo de freeCodeCamp](https://www.freecodecamp.org/logo.png)](https://www.freecodecamp.org/espanol/)
-
-### 4.3 Imagen local (ruta relativa)
+### 4.2 Imagen local (ruta relativa)
 > Si subes una imagen a `./images/diagrama.png`, se mostrará así:
 ![Diagrama del sistema](images_md/diagrama.png "Diagrama del sistema (ruta relativa)")
 
