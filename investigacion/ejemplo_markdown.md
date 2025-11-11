@@ -56,10 +56,10 @@ Puedes leer sobre [Git](ref-git) y [GitHub](ref-github).
 ## 4. Imágenes
 
 ### 4.1 Imagen remota (URL pública)
-![Banner de ejemplo](https://via.placeholder.com/600x200.png?text=Banner+Markdown)
+![Banner de ejemplo](https://share.google/images/ziDWMjH41LjdXb6mT)
 
 ### 4.2 Imagen con enlace
-[![Logo de ejemplo](https://via.placeholder.com/180.png?text=Logo)](https://www.markdownguide.org/)
+[![Logo de ejemplo](https://share.google/images/ziDWMjH41LjdXb6mT)(https://www.markdownguide.org/)
 
 ### 4.3 Imagen local (ruta relativa)
 > Si subes una imagen a `./images/diagrama.png`, se mostrará así:
