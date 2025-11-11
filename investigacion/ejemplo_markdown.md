@@ -64,10 +64,6 @@ Puedes leer sobre [Git](ref-git) y [GitHub](ref-github).
 
 ---
 
-
-[![Logo de freeCodeCamp](https://www.freecodecamp.org/logo.png)](https://www.freecodecamp.org/espanol/)
-
-
 ## 5. Tablas
 
 ### 5.1 Tabla simple
