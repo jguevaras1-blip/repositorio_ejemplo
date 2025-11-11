@@ -63,7 +63,7 @@ Puedes leer sobre [Git](ref-git) y [GitHub](ref-github).
 
 ### 4.3 Imagen local (ruta relativa)
 > Si subes una imagen a `./images/diagrama.png`, se mostrará así:
-![Diagrama del sistema](images/diagrama.png "Diagrama del sistema (ruta relativa)")
+![Diagrama del sistema](images_md/diagrama.png "Diagrama del sistema (ruta relativa)")
 
 ---
 
